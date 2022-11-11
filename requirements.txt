@@ -1,3 +1,7 @@
+numpy 
+scipy
+matplotlib
+sympy
 aiohttp==3.8.3
 aiosignal==1.3.1
 anyio==3.6.1
